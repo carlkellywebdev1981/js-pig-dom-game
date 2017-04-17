@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Project Title
 
 Javascript DOM Pig Game
@@ -6,7 +6,7 @@ Javascript DOM Pig Game
 
 ## Project
 
-Pig Game Application
+Pig Game Application - 2 Player
 
 Link to Demo - [Pig Game](http://www.onfiremedia.co.uk/pig-game)
 
@@ -24,6 +24,3 @@ Link to Demo - [Pig Game](http://www.onfiremedia.co.uk/pig-game)
 * **Carl Kelly** - [Onfire Media](http://www.onfiremedia.co.uk)
 
 
-=======
-# js-pig-dom-game
->>>>>>> 71d5dcbe5b999b6321b340962122984ab27f3aaf
